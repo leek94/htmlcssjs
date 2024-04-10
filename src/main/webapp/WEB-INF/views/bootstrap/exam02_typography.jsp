@@ -15,7 +15,7 @@
       <hr/>
       
       <div class="container">
-      <P class="bg-primary text-start display-1 ">text-start</P>
+      <P class="bg-primary text-start  ">text-start</P>
       <P class="bg-warning text-center display-3 ">text-center</P>
       <P class="bg-danger text-end h6 ">text-end</P>
       
